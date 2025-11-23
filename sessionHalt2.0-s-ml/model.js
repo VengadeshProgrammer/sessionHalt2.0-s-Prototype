@@ -5,7 +5,7 @@
  - Once the ML model is ready, this file will contain the actual logic of the the ML model.
  - working POC website which demonstrates the sessionHalt2.0's-ml model can be found at: https://session-halt2-0-demo-website-bldfkl1ze-vengadeshs-projects.vercel.app/
  - This model will use ``TensorFlow.js`` for training and prediction.
- - For any queries, reach out to: https://discord.gg/cqW8CenJ5 (Vengadesh R)
+ - For any queries, reach out to: For enquiries, contact me via email: aakashcoder123@gmail.com  (Vengadesh R)
  -------------------------------------------------------------------------------
  ML MODEL SOURCE CODE WILL BE HERE IN THE FUTURE
  -------------------------------------------------------------------------------
